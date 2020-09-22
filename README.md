@@ -8,4 +8,17 @@ My name is HeathWang, an iOS software engineer.
 * 🎯 Coding, reading, [puzzle games](https://gemsofwar.com).
 -------
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=HeathWang&show_icons=true" alt="HeathWang's Github Stats" />
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                <img align="center" src="https://github-readme-stats.vercel.app/api?username=HeathWang&show_icons=true&theme=tokyonight" alt="HeathWang's Github Stats" />
+            </td>
+            <td style="text-align: center">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeathWang&layout=compact" alt="HeathWang's Top langs" />
+            </td>
+        </tr>
+    </table>
+</div>
+
+
