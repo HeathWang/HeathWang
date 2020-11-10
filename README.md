@@ -5,7 +5,7 @@ My name is HeathWang, an iOS software engineer.
 * 💻 I’m currently learning Swift, Python.
 * 💭 Discuss about iOS development with me.
 * ✉️ Contact me: [click here](yishu.jay@gmail.com)
-* 🎯 Coding, reading, [puzzle games](https://gemsofwar.com).
+* 🎯 Coding, Reading.
 -------
 
 <div style="text-align: center">
